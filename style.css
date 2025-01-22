@@ -499,10 +499,10 @@ background-position: center;
   }
   .project-box, .project-boxx{
     margin: 20px;
-    color: #111;
+    color: #ffffff;
   }
   .project-boxxx{
     margin: 20px;
-    color: white;
+    color: rgb(0, 0, 0);
   }
 }
