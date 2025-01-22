@@ -174,20 +174,23 @@ h1, h2{
   background: rgba(0, 0, 0, 0.7);
   z-index: -1; 
   border-radius: 10px;
-  transition: background-colour 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 .skill-box1 {
+  transition: all 0.3s ease;
   background-image: url(laptop-mockup-graphics-tablet-tablet-preview.jpg);
   background-size: cover;
   background-position: center;
 }
 .skill-box2 {
+  transition: all 0.3s ease;
   background-image: url(68747470733a2f2f7777772e69696d2e66722f65636f6c652d7765622f77702d636f6e74656e742f75706c6f6164732f323031372f30312f48544d4c352e6a7067.jpg);
   background-size: cover;
   background-position: center;
 }
 .skill-box3 {
+  transition: all 0.3s ease;
   background-image: url(UNITY.jpg);
   background-size: cover;
   background-position: center;
